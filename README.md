@@ -15,7 +15,7 @@
 
 ## How to Use This Repository
 
-Feel free to explore the contents of this repository to see how various aspects of GitHub work. Check out the `index.html` file to see a basic example of a stored file, visit the Issues section to see how problems and suggestions are tracked, or take a look at the Project Board to see a visual representation of project management in action.
+Feel free to explore the contents of this repository to see how various aspects of GitHub work. Check out the `demo-code.py` file to see a basic example of a stored file, visit the Issues section to see how problems and suggestions are tracked, or take a look at the Project Board to see a visual representation of project management in action.
 
 ## Contributing
 
